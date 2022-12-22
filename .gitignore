@@ -1,0 +1,5 @@
+.apt_*
+.vscode
+target
+.DS_Store
+src/test/resources/apk/android-debug.apk
